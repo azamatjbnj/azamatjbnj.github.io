@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nikita ananist.", "gondoplyas.", "AZAMAT.", "Shreckhuber.", "DAGESTAN ONELOVE"],
+      strings: ["Nikita korol.", "lovetoFLEX.", "AZAMAT.", "Shreckhuber.", "StanDagi"],
       typeSpeed: 100,
       loop: true,
     });
